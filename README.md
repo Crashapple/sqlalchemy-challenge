@@ -106,4 +106,4 @@ __HINTS__
 
 # NOTES
 
-1. 
+1. Syntax assistance was obtained from Professor, classmates, and online forums.
