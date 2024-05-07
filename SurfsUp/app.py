@@ -44,7 +44,7 @@ app = Flask(__name__)
 def welcome():
     return (
         f"Welcome to the Climate App!<br/>"
-        f"Available Routes:<br/>"
+        f"<br/>Available Routes:<br/>"
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
